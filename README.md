@@ -1,3 +1,3 @@
 # Landing Page
 
-Segundo proyecto de The Odin Project.
+Segundo proyecto del curso Odin Project. :)
