@@ -58,8 +58,8 @@
     background-color: #3882f6;
     color: #F9FAF8;
     margin-top: 15px;
-    height: 35px;
-    width: 120px;
+    height: 40px;
+    width: 150px;
     border-radius: 10px;
     font-size: 20px;
     font-weight: 800;
@@ -106,8 +106,7 @@
   
 .quote-container {
     background-color: #E5E7EB;
-    padding-top: 75px;
-    padding-bottom: 75px;
+    padding: 140px 340px;
     margin-bottom: 100px;
 }
 
@@ -116,43 +115,59 @@
     font-style: italic;
     font-weight: 400;
     font-size: 36px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .br {
     font-size: 24px;
     font-weight: bold;
     font-style: normal;
+    display: flex;
+    justify-content: flex-end;
 }
    
 .signup-container {
     background-color: #3882f6;
     color: #F9FAF8;
     margin: 0px 200px 100px 200px;
-    pa
-    
+    padding: 50px 120px;
+    display: flex;
 }
 
 .call {
     font-size: 24px;
     font-weight: bold;
 }
-
+.text-container {
+    display: flex;
+    flex-direction: column;
+}
 .call-subtext {
     font-size: 18px;
 }
-
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-left: auto; 
+}
 .signup {
-    height: 35px;
-    width: 120px;
+    height: 40px;
+    width: 150px;
     border-radius: 10px;
     font-size: 20px;
     font-weight: 800;
     border: 2px #F9FAF8 solid;
     background-color: transparent;
     color: #F9FAF8;
-    margin: auto;
-    text-align: center;
+    
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 230px;
+    color: #F9FAF8;
+    font-size: 20px;
 }
