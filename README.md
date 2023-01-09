@@ -1,1 +1,3 @@
-# odin-landing-page
+# Landing Page
+
+Segundo proyecto de The Odin Project.
